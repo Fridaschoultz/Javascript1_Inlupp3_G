@@ -9,10 +9,11 @@
 				console.log(this.name +"\n\n"+
 				this.adress.gatuadress +"\n"+
 				this.adress.postnr +" "+
-				this.adress.ort);          /* this.print() blir en
-							               funktion som utför uppgiften att skriva ut 
-										   önskad information. Här väljer man 
-										   vad som skall visas i anropen print() längst ner */
+				this.adress.ort);          
+				/* this.print() blir en
+			     funktion som utför uppgiften att skriva ut 
+				 önskad information. Här väljer man 
+				 vad som skall visas i anropen print() längst ner */
 			} 
 
 		}
